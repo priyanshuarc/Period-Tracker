@@ -1,0 +1,5 @@
+Development Approach,Development Time (Months),Cost Range (USD),Performance Score (1-10),Code Reusability (%),Learning Curve,Community Support,Maintenance Effort,Best For,Healthcare App Suitability
+React Native,6,$80k-150k,8,85,Medium,Excellent,Medium,Rapid development,High
+Flutter,5,$70k-140k,9,90,Medium,Very Good,Low,Custom UI/UX,High
+Native (Swift/Kotlin),8,$120k-200k,10,50,High,Excellent,High,Maximum performance,Very High
+Hybrid (Cordova/Ionic),7,$60k-120k,6,75,Low,Good,High,Quick prototyping,Medium

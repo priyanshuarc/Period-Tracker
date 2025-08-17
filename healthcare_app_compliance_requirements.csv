@@ -1,0 +1,7 @@
+Regulation,Applicability,Key Requirements,Compliance Cost,Timeline Impact
+HIPAA (US),Health data processing,"Data encryption, Access controls",$25k-50k,2-4 weeks
+GDPR (EU),EU user data,"Consent management, Right to deletion",$20k-40k,3-6 weeks
+FDA Guidelines,Medical device features,Clinical validation if medical claims,$50k-100k,8-16 weeks
+CCPA (California),California users,"Transparency, User control",$15k-30k,1-3 weeks
+PIPEDA (Canada),Canadian users,"Consent, Data minimization",$15k-30k,1-3 weeks
+Data Protection Act (UK),UK user data,"Lawful basis, User rights",$20k-35k,2-4 weeks
